@@ -12,8 +12,7 @@ The dashboard helps businesses track **revenue trends, customer performance, pro
 - [Project Workflow](#-project-workflow)  
 - [Dashboard Insights](#-dashboard-insights)  
 - [How to Run](#-how-to-run)  
-- [Screenshots](#-screenshots)  
-- [License](#-license)  
+- [Screenshots](#-screenshots)
 
 ---
 
@@ -74,7 +73,8 @@ The final dashboard provides the following insights:
 
 ## Screenshots
 
-<img width="1917" height="970" alt="Screenshot " src="https://github.com/user-attachments/assets/c82e5aa2-b580-4e24-b2e7-ab4547202a0a" />
+<img width="1298" height="731" alt="Screenshot_sales" src="https://github.com/user-attachments/assets/480de3cf-5119-4452-b734-c58dba298575" />
+
 
 
 
