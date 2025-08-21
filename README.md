@@ -1,11 +1,11 @@
-# 📊 Sales Insights Dashboard  
+#  Sales Insights Dashboard  
 
 An end-to-end **Data Analytics project** using **MySQL** and **Power BI** to analyze sales data and generate business insights.  
 The dashboard helps businesses track **revenue trends, customer performance, product profitability, and regional sales distribution** for data-driven decision making.  
 
 ---
 
-## 📑 Table of Contents  
+##  Table of Contents  
 - [Project Overview](#-project-overview)  
 - [Dataset](#-dataset)  
 - [Tools & Technologies](#-tools--technologies)  
@@ -16,7 +16,7 @@ The dashboard helps businesses track **revenue trends, customer performance, pro
 
 ---
 
-## 🚀 Project Overview  
+##  Project Overview  
 The aim of this project is to provide a **Sales Insights Dashboard** by integrating data stored in **MySQL** with **Power BI**.  
 It highlights:  
 - Revenue trends over time  
@@ -29,7 +29,7 @@ This helps stakeholders make better strategic and operational decisions.
 
 ---
 
-## 📂 Dataset  
+##  Dataset  
 The dataset contains the following tables:  
 
 - **Customers** → Customer ID, name, segment, city, state  
@@ -42,7 +42,7 @@ The dataset contains the following tables:
 
 ---
 
-## 🛠️ Tools & Technologies  
+##  Tools & Technologies  
 - **MySQL** – Data storage & SQL queries  
 - **Power BI** – Dashboard creation & data visualization  
 - **SQL Workbench** – Database management  
@@ -50,7 +50,7 @@ The dataset contains the following tables:
 
 ---
 
-## 🔄 Project Workflow  
+##  Project Workflow  
 1. Import raw sales data into MySQL database  
 2. Clean and transform the data using SQL queries  
 3. Connect Power BI to the MySQL database  
@@ -59,7 +59,7 @@ The dataset contains the following tables:
 
 ---
 
-## 📊 Dashboard Insights  
+##  Dashboard Insights  
 The final dashboard provides the following insights:  
 
 - **Key Metrics** → Total Sales, Total Profit, Total Orders  
